@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-cd /var/www/wordpress/wp-content/plugins/
-git clone https://github.com/Narthur/wp-bootstrap-recent.git
+mkdir /var/www/wordpress/wp-content/plugins/wp-bootstrap-recent
+git clone https://github.com/Narthur/wp-bootstrap-recent.git /var/www/wordpress/wp-content/plugins/wp-bootstrap-recent/
