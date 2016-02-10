@@ -1,6 +1,6 @@
-# VCCW
+# wp-bootstrap-recent-vagrant
 
-This is a Vagrant configuration designed for development of WordPress plugins, themes, or websites.
+This is a Vagrant configuration designed for developing the [wp-bootstrap-recent](https://github.com/Narthur/wp-bootstrap-recent) WordPress plugin.
 
 To get started, check out <http://vccw.cc/>
 
